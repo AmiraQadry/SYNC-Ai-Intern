@@ -8,7 +8,7 @@ The training data set (train.csv) contains 785 columns, each containing a pixel-
 ## Requirements
 To run this project, you need to have the following dependencies installed:
 
-- Python 3.x
+- Python
 - TensorFlow
 - Keras
 - numpy
